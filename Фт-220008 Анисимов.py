@@ -1,5 +1,10 @@
+#создаем функцию для создания матрицы сравнения критериев
 def main():
-    n=int(input("Введите количество критериев"))
+    try:
+        n=int(input("Введите количество критериев"))
+    except ValueError:
+        print("Введите правильное значение")
+        return
     a=[[0]*n for i in range(n)]
     for i in range(n):
         for j in range(n):
@@ -12,6 +17,7 @@ def main():
     for i in range(n):
         print(round(sums[i],2))
 
+#создаем функцию для вычисления весовых кэф.
 def ves(a,n):
     sum =0.0
     sums=[0.0]*n
@@ -25,12 +31,5 @@ def ves(a,n):
         sums[i]= sums[i]/sum
     return sums
 
-
-
-
-
-
-
-
 if __name__ == "__main__":
-        main()
+    main()
