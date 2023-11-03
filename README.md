@@ -6,9 +6,10 @@ ____
 ____
 4)Чтобы пользоваться прогрмамой нужно ввести количество критериев сравнения, затем отношения критериев(в десятичном формате)
 ____
-![1](https://github.com/Vancheres/Laba-6/assets/146539395/9c9f3719-bef3-4e8a-8976-d29b639047f2)
+![1](https://github.com/Vancheres/Laba-6/assets/146539395/dec5cf28-b4b9-4194-94a4-6ccd4ef759fd)
 
-![2](https://github.com/Vancheres/Laba-6/assets/146539395/fc31bba7-29e6-4b29-986b-a08d2901bb30)
+![2](https://github.com/Vancheres/Laba-6/assets/146539395/4a6a7e1d-408d-4e3c-884b-0e91f86b07bf)
 
-![3](https://github.com/Vancheres/Laba-6/assets/146539395/64e1600e-6f0f-4a0c-b8a5-896c0ff19ea6)
+![3](https://github.com/Vancheres/Laba-6/assets/146539395/c24048a6-6a3e-4f77-952f-5c508eb2263a)
+
 
